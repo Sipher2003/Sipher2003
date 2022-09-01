@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaustubh. 
 - 👀 I Like Programming and i am familiar with Java,Python,C and Basic Web Development Concepts.
-- 🌱 I’m currently learning Solidity and ReactJS
+- 🌱 I’m currently learning ReactJS
 
 
 ![Sasuke-Mode-Chillcow](https://user-images.githubusercontent.com/107745719/184551024-f8c7c322-729b-4aee-baf4-6400edfa7bee.png)
