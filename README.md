@@ -4,7 +4,7 @@
 
 
 
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sipher2003?cardType=github&theme=tokyonight)                                       
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sipher2003?cardType=github&theme=tokyonight) <img src="https://api-breeze.herokuapp.com/api/card/516966089624649750?banner=https://data.whicdn.com/images/351607890/original.jpg" align="right" />                                      
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sipher2003&hide=html&layout=compact&theme=tokyonight)
 
 
