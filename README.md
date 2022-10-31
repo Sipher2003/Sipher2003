@@ -4,7 +4,7 @@
 
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sipher2003?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card)                                       
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sipher2003?cardType=github&theme=tokyonight)                                       
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sipher2003&hide=html&layout=compact&theme=tokyonight)
 
 
