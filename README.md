@@ -2,7 +2,9 @@
 -                       👀 I Like Programming and i am familiar with Java,Python,C and Basic Web Development Concepts.
 -                                                 🌱 I’m currently learning ReactJS
 
-https://github-readme-stats.vercel.app/api?username=Sipher2003&theme=tokyonight
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sipher2003&show_icons=true&theme=tokyonight)
 
 
 
