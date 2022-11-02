@@ -4,7 +4,7 @@
 
 
 
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sipher2003?cardType=github&theme=tokyonight) <img src="https://api-breeze.herokuapp.com/api/card/516966089624649750?banner=https://wallpaper.dog/large/10767387.jpg&large_image=https://i.pinimg.com/originals/38/7f/d0/387fd00445d87ecec5486c259283008c.jpg" align="right" />                                      
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sipher2003?cardType=github&theme=tokyonight) <img src="https://api-breeze.herokuapp.com/api/card/516966089624649750?banner=https://wallpaper.dog/large/10767387.jpg&large_image=https://i.pinimg.com/originals/38/7f/d0/387fd00445d87ecec5486c259283008c.jpg&about=Focusing&small_image=https://nftevening.com/wp-content/uploads/2022/04/BAYC-PFP-NFT.png" align="right" />                                      
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sipher2003&hide=html&layout=compact&theme=tokyonight)
 
 
