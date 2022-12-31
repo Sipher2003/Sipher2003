@@ -20,7 +20,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudi
 
 
 <br><br>
-<img src="https://breeze-api.kurizu.repl.co/api/card/516966089624649750?banner=https://i.pinimg.com/564x/eb/87/c5/eb87c5163138efa16f65a2430178bf3c.jpg&about=Focusingg&large_image=https://i.pinimg.com/564x/67/a4/f6/67a4f69c3adecbbe59ca508e688a02d1.jpg&small_image=https://i.pinimg.com/564x/6a/7c/74/6a7c7413bebf18a597fa9e15cd00c705.jpg" align="right" />
+<img src="https://breeze-api.kurizu.repl.co/api/card/516966089624649750?about=Focusing&large_image=https://cdn.discordapp.com/attachments/889811866593918989/1058668248276684841/kaus.png&small_image=https://cdn.discordapp.com/attachments/889811866593918989/1058669465153314836/smallkaus.png&banner=https://cdn.discordapp.com/attachments/889811866593918989/1058668780894552074/kausbanner.png" align="right" />
 
 
 
