@@ -23,7 +23,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudi
 
 
 <!-- ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sipher2003?cardType=github&theme=tokyonight)  -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sipher2003&layout=compact&theme=tokyonight&hide=html" />    -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sipher2003&layout=compact&theme=tokyonight&hide=html" />   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sipher2003&theme=tokyonight" />
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sipher2003&layout=compact&theme=tokyonight&hide=html) -->
 <!-- <img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Sipher&card&customcolor=bg:000000_text:2ad3ff" /> -->
