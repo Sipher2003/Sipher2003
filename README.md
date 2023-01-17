@@ -18,7 +18,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-orig
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /><img height=30>                                                                                           
 
 <br>
-<img src="https://breeze-api.kurizu.repl.co/api/card/516966089624649750?about=Focusing&large_image=https://cdn.discordapp.com/attachments/889811866593918989/1058668248276684841/kaus.png&small_image=https://cdn.discordapp.com/attachments/889811866593918989/1058669465153314836/smallkaus.png&banner=https://cdn.discordapp.com/attachments/889811866593918989/1058668780894552074/kausbanner.png" align="right"/>
+<img src="https://breeze-api.kurizu.repl.co/api/card/516966089624649750?about=Focusing&large_image=https://cdn.discordapp.com/attachments/889811866593918989/1058668248276684841/kaus.png&small_image=https://cdn.discordapp.com/attachments/889811866593918989/1058669465153314836/smallkaus.png&banner=https://cdn.discordapp.com/attachments/889811866593918989/1058668780894552074/kausbanner.png" align="right" />
 
 
 
