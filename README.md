@@ -18,7 +18,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-orig
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /><img height=30>                                                                                           
 
 <br>
-<img src="https://discord-cards.kurizu.repl.co/api/compact/516966089624649750?about=Focusing&banner=https://wallpaper.dog/large/20498121.jpg&large_image=&small_image=https://i.pinimg.com/originals/20/5c/4d/205c4d505986ee1814b406ba70e8be1f.jpg&hex=" align="right" alt="Couldnt Load Card :(" />
+<img src="https://discord-cards.kurizu.repl.co/api/compact/516966089624649750?about=Focusing&banner=https://w0.peakpx.com/wallpaper/357/406/HD-wallpaper-inazuma-genshin-impact.jpg&large_image=&small_image=https://i.pinimg.com/originals/20/5c/4d/205c4d505986ee1814b406ba70e8be1f.jpg&hex=" align="right" alt="Couldnt Load Card :(" />
 
 
 
