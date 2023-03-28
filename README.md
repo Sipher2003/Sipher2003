@@ -1,5 +1,5 @@
 ---About Me<br>
--👋Hi, I’m Kaustubh but you can call me Sipher.<br>
+-👋Hi, I’m Kaustubh.<br>
 -👀 I Like Programming and i am familiar with Java,Python,C and Basic Web Development Concepts.<br>
 -🌱Currently working on Sparkyy<br>
 -✅Also Learning Django<br><br>
