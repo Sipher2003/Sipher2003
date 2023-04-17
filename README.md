@@ -1,8 +1,7 @@
 ---About Me<br>
 -👋Hi, I’m Kaustubh.<br>
 -👀 I Like Programming and i am familiar with Java,Python,C and Basic Web Development Concepts.<br>
--🌱Currently working on Sparkyy<br>
--✅Also Learning Django<br><br>
+-✅Learning Django<br><br>
 ---Links<br>
 <a href="https://sipherweb.netlify.app/" target="_blank">Website</a><br>
 
