@@ -16,7 +16,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-orig
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /><img height=30>                                                <br><br>
 <div class="container">      
   <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sipher2003&layout=compact&theme=tokyonight&hide=html" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sipher2003&layout=compact&theme=tokyonight&hide=jupyter%20notebook%20,%20html" align="right" />
 
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sipher2003?cardType=github&theme=tokyonight) 
 </div> 
