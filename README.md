@@ -1,18 +1,16 @@
 ---About Me<br>
 -👋Hi, I’m Kaustubh.<br>
--👀 I Like Programming and i am familiar with Java,Python,C and Basic Web Development Concepts.<br>
+-👀 I Like Programming and i am familiar with Java,Python,C and Certain Web Development Concepts.<br>
 -✅Actively expanding skills in Data Science<br><br>
 ---Links<br>
 <a href="https://sipherweb.netlify.app/" target="_blank">Website</a><br>
 
-<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=30
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=30
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img height=30
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><img height=30                                                               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=30
+<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/><img height=30
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/><img height=30
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/><img height=30
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img height=30
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /><img height=30                                                       
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /><img height=30                                                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><img height=30
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /><img height=30                                                   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><img height=30
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /><img height=30                                                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><img height=30                                                   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><img height=30
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /><img height=30>                                                <br><br>
 <div class="container">      
   <br>
