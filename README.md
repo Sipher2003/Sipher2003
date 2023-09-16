@@ -1,6 +1,6 @@
 ---About Me<br>
 -👋Hi, I’m Kaustubh.<br>
--👀 I Like Programming and i am familiar with Java,Python,C.Flutter and Certain Web Development Concepts.<br>
+-👀 I Like Programming and i am familiar with Java,Python,C,Flutter and Certain Web Development Concepts.<br>
 -✅Actively expanding skills in Data Science<br><br>
 ---Links<br>
 <a href="https://sipherweb.netlify.app/" target="_blank">Website</a><br>
