@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/99d145cf-21fa-4517-9e19-e2d417133062" alt=":D" style="width: 100%;" />
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt=":D" style="width: 100%;" />
 <br><br>
 ---<b>About Me</b> <br>
 -👋Hi, I’m Kaustubh.<br>
