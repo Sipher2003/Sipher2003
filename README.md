@@ -2,8 +2,8 @@
 <br><br>
 ---<b>About Me</b> <br>
 -👋Hi, I’m Kaustubh.<br>
--👀 I Like Programming and i am familiar with Java,Python,C,Flutter and Certain Web Development Concepts.<br>
--✅Actively expanding skills in Data Science<br><br>
+-👀 I Like Programming and i am familiar with Java,Python,and Certain Web Development Concepts.<br>
+-✅Actively expanding skills in Machine Learning and AI<br><br>
 
 ---Links<br>
 <a href="https://kaustubh-bhosale.vercel.app/" target="_blank">Website</a><br><br>
