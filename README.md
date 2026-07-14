@@ -9,7 +9,7 @@
 ## 👤 About Me
 - 👋 Hi, I’m **Kaustubh**  
 - 👀 I like programming and I am familiar with **Java, Python, and Web Development Concepts**  
-- ✅ Actively expanding skills in **Data Science**  
+- ✅ Actively expanding skills in **Data Engineering and Cloud**  
 
 ---
 
