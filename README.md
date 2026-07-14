@@ -37,5 +37,5 @@
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Sipher2003?cardType=github&theme=tokyonight" alt="My Awesome Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sipher2003&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sipher2003&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
 </p>
