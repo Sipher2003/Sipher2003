@@ -75,8 +75,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sipher2003&theme=tokyonight" height="165" />
-  <img src="https://leetcard.jacoblin.cool/Sipher2003?theme=nord&border=0&radius=20" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sipher2003&theme=nordfox" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sipher2003&theme=zenburn" height="165" />
 </p>
 
 ---
