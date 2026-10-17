@@ -14,7 +14,7 @@
 
 - **MCA** from Vivekanand Education Society's Institute of Technology
 - Ex Engineering Intern @ **PayNearby** — automation & testing for payments infrastructure (NEFT/IMPS/AePS)
-- Actively deepening my skills in **Data & Cloud (AWS)**
+- Actively deepening my skills in **AI, Data & Cloud (AWS)**
 - I like programming and I'm familiar with Java, Python, and web development concepts
 
 ---
@@ -95,4 +95,4 @@
   <a href="mailto:kaustubh.bhosale30@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=flat-square&logo=gmail" /></a>
 </p>
 
-<p align="center"><i>Open to opportunities in Data Engineering, Backend Development & Cloud.</i></p>
+<p align="center"><i>Open to opportunities in Software Engineering, Data & Cloud.</i></p>
