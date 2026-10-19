@@ -81,18 +81,20 @@
 
 ---
 
-### Achievements
-![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark-blue?style=flat-square&logo=github)
-![Galaxy Brain](https://img.shields.io/badge/GitHub-Galaxy%20Brain-purple?style=flat-square&logo=github)
+### Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/62ff63c4-17d0-4176-bf73-2a9c74a98424/public_url">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="AWS Certified Cloud Practitioner" />
+  </a>
+  <a href="https://www.credly.com/badges/91f39eb8-2b82-4072-9f3e-38debc6bcc59/public_url">
+    <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100" alt="AWS Certified AI Practitioner" />
+  </a>
+  <a href="https://www.credly.com/badges/19561516-9309-4fd0-8168-0f5e17706c9e/public_url">
+    <img src="https://images.credly.com/size/340x340/images/727c2754-d727-4e27-a1aa-3de2425ce239/blob" width="100" alt="AWS Academy Machine Learning Foundations" />
+  </a>
+</p>
 
 ---
-
-### Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/kaustubh-bhosale-331956256"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" /></a>
-  <a href="https://kaustubh-bhosale.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel" /></a>
-  <a href="mailto:kaustubh.bhosale30@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=flat-square&logo=gmail" /></a>
-</p>
 
 <p align="center"><i>Open to opportunities in Software Engineering, Data & Cloud.</i></p>
